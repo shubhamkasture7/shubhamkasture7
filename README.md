@@ -99,7 +99,7 @@ graph TD
 <div align="center">
 
 ### 🧠 NextGenHire – AI Mock Interview Platform
-[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)](https://github.com/shubhamkasture)
+[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)]([https://github.com/shubhamkasture7](https://nextgenmock.vercel.app/))
 
 **Tech Stack:** `React.js` `Node.js` `MongoDB` `Google OAuth` `OpenAI API`
 
@@ -112,7 +112,7 @@ graph TD
 ---
 
 ### 🍽️ MessMate – Android Mess Management App
-[![MessMate](https://img.shields.io/badge/MessMate-Android%20App-green?style=for-the-badge&logo=android)](https://github.com/shubhamkasture)
+[![MessMate](https://img.shields.io/badge/MessMate-Android%20App-green?style=for-the-badge&logo=android)]([https://github.com/shubhamkasture7](https://github.com/GouriRajmane/B.Tech_Project))
 
 **Tech Stack:** `Java` `Firebase` `Razorpay` `Android SDK`
 
@@ -125,7 +125,7 @@ graph TD
 ---
 
 ### 🤖 JARVIS – AI Virtual Assistant
-[![JARVIS](https://img.shields.io/badge/JARVIS-Virtual%20Assistant-purple?style=for-the-badge&logo=robot)](https://github.com/shubhamkasture)
+[![JARVIS](https://img.shields.io/badge/JARVIS-Virtual%20Assistant-purple?style=for-the-badge&logo=robot)]([https://github.com/shubhamkasture7](https://shubhamkasture7.github.io/jarvis/))
 
 **Tech Stack:** `Java` `MySQL` `Swing` `Speech Recognition`
 
@@ -167,6 +167,7 @@ graph TD
 
 🎓 **Certifications:**
 - Full Stack Web Development
+- RAG (IBM Skillbuild)
 - Android App Development
 - AI/ML Fundamentals
 - Cloud Computing (Azure)

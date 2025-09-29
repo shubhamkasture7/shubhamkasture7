@@ -99,13 +99,13 @@ graph TD
 <div align="center">
 
 ### 🧠 NextGenHire – AI Mock Interview Platform
-[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)](https://nextgenmock.vercel.app/))
+[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)](https://nextgenmock.vercel.app/)
 
-**Tech Stack:** `React.js` `Node.js` `MongoDB` `Google OAuth` `OpenAI API`
+**Tech Stack:** `React.js` `Node.js` `Neon DB` `Cleak OAuth` `Gemini API`
 
 🎯 **Features:**
 - AI-powered mock interviews with real-time feedback
-- Resume builder with ATS optimization
+- Anlysis 
 - Performance tracking and analytics
 - Interview scheduling and reminders
 
@@ -127,7 +127,7 @@ graph TD
 ### 🤖 JARVIS – AI Virtual Assistant
 [![JARVIS](https://img.shields.io/badge/JARVIS-Virtual%20Assistant-purple?style=for-the-badge&logo=robot)]([https://github.com/shubhamkasture7](https://shubhamkasture7.github.io/jarvis/))
 
-**Tech Stack:** `Java` `MySQL` `Swing` `Speech Recognition`
+**Tech Stack:** `HTML` `CSS` `Java Script` `Speech Recognition`
 
 🎯 **Features:**
 - Voice command recognition

@@ -99,7 +99,7 @@ graph TD
 <div align="center">
 
 ### 🧠 NextGenHire – AI Mock Interview Platform
-[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)]([https://github.com/shubhamkasture7](https://nextgenmock.vercel.app/))
+[![NextGenHire](https://img.shields.io/badge/NextGenHire-AI%20Interview%20Platform-blue?style=for-the-badge&logo=openai)](https://nextgenmock.vercel.app/))
 
 **Tech Stack:** `React.js` `Node.js` `MongoDB` `Google OAuth` `OpenAI API`
 

@@ -107,18 +107,6 @@ A **Web3-based decentralized ride-sharing platform** designed to provide transpa
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shubhamkasture7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkasture7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 GitHub Streak
 
 <div align="center">

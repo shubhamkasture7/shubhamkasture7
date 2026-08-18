@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Developer+🚀;Cloud+Enthusiast+☁️;Building+Scalable+Applications+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Developer;Cloud+Enthusiast;Web3+Explorer" />
 
 </div>
 
@@ -107,11 +107,13 @@ A **Web3-based decentralized ride-sharing platform** designed to provide transpa
 
 ---
 
-## 🏆 GitHub Streak
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shubhamkasture7&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamkasture7&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 

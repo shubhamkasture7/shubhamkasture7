@@ -110,7 +110,7 @@ An automated food calorie estimation system powered by image processing and inte
 ## 📈 Contribution Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkasture7&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkasture7&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph for Shubham Kasture" />
 </div>
 
 ---

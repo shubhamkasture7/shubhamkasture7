@@ -36,39 +36,30 @@ I am a passionate Full Stack Developer focused on building scalable, efficient, 
 ## 🧠 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java" alt="Languages" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java" alt="Languages" /></p>
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend" /></p>
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend" /></p>
 
 ### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,git,github,docker,aws,nginx,postman,vscode" alt="Databases and tools" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,git,github,docker,aws,nginx,postman,vscode" alt="Databases and tools" /></p>
 
 ---
 
 ## ✨ Featured Projects
 
-### 1. Obsidian Wealth 💰
+### Obsidian Wealth 💰
 A personal wealth management platform for tracking expenses, monitoring financial activities, and understanding spending patterns through a clean dashboard.
 
 - Expense tracking and financial insights
-- Secure cloud deployment
-- AWS EC2 + S3 integration
+- Secure cloud deployment with AWS EC2 and S3
 - Nginx reverse proxy configuration
 - Built with React, Next.js, MongoDB, and cloud services
 
-### 2. AI Mock Interview Platform 🤖
+### AI Mock Interview Platform 🤖
 An AI-powered mock interview experience designed to simulate real technical interviews and provide actionable feedback for improvement.
 
 - AI-generated interview questions
@@ -76,7 +67,7 @@ An AI-powered mock interview experience designed to simulate real technical inte
 - Performance insights and evaluation
 - React + Node.js + Express + PostgreSQL
 
-### 3. RideChain 🚖
+### RideChain 🚖
 A Web3-inspired decentralized ride-sharing platform focused on transparency, trust, and secure booking flows.
 
 - Decentralized ride management
@@ -84,12 +75,11 @@ A Web3-inspired decentralized ride-sharing platform focused on transparency, tru
 - Real-time communication support
 - Scalable backend architecture
 
-### 4. SmartBite 🍽️
+### SmartBite 🍽️
 An automated food calorie estimation system powered by image processing and intelligent analysis.
 
 - Vision-based calorie estimation
 - Smart food recognition
-- ML-inspired analysis workflow
 - Full stack application experience
 
 ---
@@ -109,9 +99,9 @@ An automated food calorie estimation system powered by image processing and inte
 
 ## 📈 Contribution Insights
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkasture7&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph for Shubham Kasture" />
-</div>
+The third-party activity graph previously embedded here is currently unavailable. Its canonical Vercel deployment returns **HTTP 402 `DEPLOYMENT_DISABLED`**, so GitHub correctly displays the image alt text. I removed that broken image rather than replacing it with another unverified endpoint.
+
+View the live contribution calendar directly on my [GitHub contributions page](https://github.com/shubhamkasture7).
 
 ---
 

@@ -1,156 +1,142 @@
-# Hi 👋, I'm Shubham Kasture
+# Hi, I'm Shubham Kasture 👋
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Cloud+%26+DevOps+Enthusiast;Building+real-world+products" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;MERN+Stack+Developer;Cloud+Enthusiast;Web3+Explorer" />
+<p align="center">
+  <a href="https://github.com/shubhamkasture7"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/shubhamkasture"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shubhamkasture289@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamkasture7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shubhamkasture7?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhamkasture7&theme=tokyonight&no-frame=true&row=2&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **2026 B.Tech Graduate** passionate about building scalable and impactful software solutions using **MERN Stack and Cloud Technologies**.
+I am a passionate Full Stack Developer focused on building scalable, efficient, and user-centric web applications. I enjoy transforming ideas into real-world digital products using modern technologies and clean engineering practices.
 
-I enjoy developing real-world full-stack applications, integrating modern technologies, and deploying production-ready systems.
-
-* 🌱 Currently exploring **Cloud Architecture & Scalable System Design**
-* 💻 Focused on **MERN Stack Development**
-* ☁️ Hands-on experience with **AWS (EC2, S3) & Nginx Deployment**
-* 🛠️ Passionate about building **real-world products**
-* 🎯 Goal: Contribute as a **Full Stack Developer**
+- 🎓 2026 B.Tech Graduate
+- 💡 Interested in Full Stack Development, Cloud Architecture, and System Design
+- ⚙️ Working with MERN Stack, modern frontend tools, and deployment workflows
+- ☁️ Hands-on with AWS, EC2, S3, Nginx, and production hosting
+- 🛠️ Focused on creating impactful, real-world software solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-### 💻 Languages
-
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java" alt="Languages" />
 </p>
 
-### ⚛️ Frontend
-
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend" />
 </p>
 
-### ⚙️ Backend
-
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" alt="Backend" />
 </p>
 
-### 🗄️ Database
-
+### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,nginx,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,git,github,docker,aws,nginx,postman,vscode" alt="Databases and tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ✨ Featured Projects
 
-### 💰 OBSIDIAN-WEALTH – Personal Wealth Management Platform
+### 1. Obsidian Wealth 💰
+A personal wealth management platform for tracking expenses, monitoring financial activities, and understanding spending patterns through a clean dashboard.
 
-A cloud-hosted **personal wealth management application** that helps users manage expenses, track financial activity, and gain spending insights through an intuitive dashboard.
+- Expense tracking and financial insights
+- Secure cloud deployment
+- AWS EC2 + S3 integration
+- Nginx reverse proxy configuration
+- Built with React, Next.js, MongoDB, and cloud services
 
-**✨ Highlights**
+### 2. AI Mock Interview Platform 🤖
+An AI-powered mock interview experience designed to simulate real technical interviews and provide actionable feedback for improvement.
 
-* Expense tracking & financial management
-* Secure cloud deployment
-* Hosted on **AWS EC2**
-* Asset handling using **AWS S3**
-* Configured with **Nginx Reverse Proxy**
+- AI-generated interview questions
+- Real-time mock interview flow
+- Performance insights and evaluation
+- React + Node.js + Express + PostgreSQL
 
-**🛠️ Tech Stack:**
-`React.js` `Next.js` `MongoDB` `AWS EC2` `AWS S3` `Nginx`
+### 3. RideChain 🚖
+A Web3-inspired decentralized ride-sharing platform focused on transparency, trust, and secure booking flows.
 
----
+- Decentralized ride management
+- Blockchain integration concepts
+- Real-time communication support
+- Scalable backend architecture
 
-### 🤖 Ai-mock – AI Mock Interview Platform
+### 4. SmartBite 🍽️
+An automated food calorie estimation system powered by image processing and intelligent analysis.
 
-An **AI-powered mock interview platform** that simulates real interview experiences and provides intelligent feedback to improve performance.
-
-**✨ Highlights**
-
-* AI-generated interview questions
-* Real-time mock interview experience
-* Detailed feedback & performance analysis
-* Realistic response evaluation
-
-**🛠️ Tech Stack:**
-`React.js` `Node.js` `Express.js` `PostgreSQL` `AI Integration`
-
----
-
-### 🚖 RideShare – Decentralized Ride Sharing Platform
-
-A **Web3-based decentralized ride-sharing platform** designed to provide transparent and secure ride management using blockchain concepts.
-
-**✨ Highlights**
-
-* Decentralized ride booking
-* Blockchain integration
-* Real-time communication
-* Scalable backend architecture
-
-**🛠️ Tech Stack:**
-`React.js` `Node.js` `PostgreSQL` `Web3` `Blockchain` `Socket.IO` `Maps API`
+- Vision-based calorie estimation
+- Smart food recognition
+- ML-inspired analysis workflow
+- Full stack application experience
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=shubhamkasture7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=shubhamkasture7&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamkasture7&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkasture7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkasture7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Insights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamkasture7&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- Cloud-native architecture
+- Scalable system design
+- Deployment pipelines and DevOps workflows
+- Modern frontend engineering
+- Practical AI and product-driven development
+
+---
+
+## 🤝 Let's Connect
+
+I’m always open to collaborating on ideas, startups, product builds, and meaningful engineering challenges.
 
 <p align="center">
-<a href="https://linkedin.com/in/shubhamkasture">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shubhamkasture289@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shubhamkasture7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/shubhamkasture7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/shubhamkasture"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shubhamkasture289@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 💡 Developer Mindset
-
 <div align="center">
-
-> *"Great software is built by solving real problems, one commit at a time."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, feel free to explore my repositories!
-
-<img src="https://komarev.com/ghpvc/?username=shubhamkasture7&label=Profile%20views&color=0e75b6&style=flat" />
-
+  <h3>⭐ Building products, learning endlessly, and shipping better software.</h3>
 </div>
